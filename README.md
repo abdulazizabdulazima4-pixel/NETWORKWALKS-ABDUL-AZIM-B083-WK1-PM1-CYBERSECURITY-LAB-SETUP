@@ -86,6 +86,8 @@ Gateway: 10.0.0.1
 DNS: 8.8.8.8
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
+![image alt](https://github.com/abdulazizabdulazima4-pixel/NETWORKWALKS-ABDUL-AZIM-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/CONFIGURING%20THE%20KALI%20LINUX%20NETWORK%20MANUALLY.png?raw=true)
+
  
 Step 6. Create a Clean VM Snapshot
 After completing the initial configuration, a VirtualBox snapshot was created.
