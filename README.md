@@ -63,6 +63,8 @@ A dedicated NAT Network was created in VirtualBox.
 Configuration: Network Name: NatNetwork IPv4 Prefix: 10.0.0.0/24 DHCP: Enabled IPv6: Disabled
 A NAT Network was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 This will allow future attacker and target VMs to communicate within the lab.<br/>
+
+![image alt](https://github.com/abdulazizabdulazima4-pixel/NETWORKWALKS-ABDUL-AZIM-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/CREATING%20NAT%20NEWORK%20FOR%20THE%20VIRTUAL%20MACHINE.png?raw=true)
  
 
 ### Step 4. Import Kali linux
@@ -74,6 +76,7 @@ Adapter Type: Intel PRO/1000 MT Desktop
 The VM was allocated a RAM of 2048 MB
 
 A shared folder was also configured for transferring required files between the host operating system and the Kali VM.<br/>
+![image alt](https://github.com/abdulazizabdulazima4-pixel/NETWORKWALKS-ABDUL-AZIM-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/SELECTING%20A%20NAT%20NETWORK%20FOR%20THE%20VM%20BEFORE%20STARTING%20IT.png?raw=true)
  
 ________________________________________
 ### Step 5. Configure the Kali Linux Network
@@ -84,6 +87,8 @@ Subnet Mask: 255.255.255.0
 Gateway: 10.0.0.1
 DNS: 8.8.8.8
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.<br/>
+
+![image alt](https://github.com/abdulazizabdulazima4-pixel/NETWORKWALKS-ABDUL-AZIM-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/CONFIGURING%20THE%20KALI%20LINUX%20NETWORK%20MANUALLY.png?raw=true)
 
  
 ### Step 6. Create a Clean VM Snapshot
