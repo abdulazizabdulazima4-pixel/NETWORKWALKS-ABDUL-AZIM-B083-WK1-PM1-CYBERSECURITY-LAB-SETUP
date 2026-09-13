@@ -77,6 +77,7 @@ Adapter Type: Intel PRO/1000 MT Desktop
 The VM was allocated a RAM of 2048 MB
 
 A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
+![image alt](https://github.com/abdulazizabdulazima4-pixel/NETWORKWALKS-ABDUL-AZIM-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/SELECTING%20A%20NAT%20NETWORK%20FOR%20THE%20VM%20BEFORE%20STARTING%20IT.png?raw=true)
  
 ________________________________________
 Step 5. Configure the Kali Linux Network
