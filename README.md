@@ -67,7 +67,7 @@ ______________________________________________
 - Network Name: NatNetwork 
 - IPv4 Prefix: 10.0.0.0/24 
 - DHCP: Enabled 
-- IPv6: Disabled<br/>
+- IPv6: Disabled
 ```
 
 *A NAT Network was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
@@ -164,9 +164,9 @@ ________________________________________
 This laboratory is intended strictly for education purposes only.
 ________________________________________
 🔗 Tools & Resources
-•	7-Zip: https://7-zip.org/download.html
-•	VirtualBox: https://virtualbox.org/wiki/Downloads
-•	Kali Linux: https://kali.org/get-kali
+-	7-Zip: https://7-zip.org/download.html
+-	VirtualBox: https://virtualbox.org/wiki/Downloads
+-	Kali Linux: https://kali.org/get-kali
 ________________________________________
 👤 Author
 Abdul-Aziz Abdul-Azim
